@@ -29,8 +29,7 @@ Completed the British Airways Data Science Virtual Job Simulation on Forage, tac
 
 ## Results  
 
-- Successfully predicted lounge access eligibility for passengers with high precision.  
-- Delivered model performance and business insights in clear, stakeholder-friendly format.
 - The accuracy of the model was approximately 0.85 (Precision) and 0.12 (Recall), showing that this model requires more improvement which can be achieved by adding more customer-centric features into the data.  
+- One of the most important variable in the model was purchase_lead, that is the time between purchase and departure.
 
 ***
